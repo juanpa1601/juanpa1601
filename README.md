@@ -37,6 +37,6 @@ Medellín, Colombia
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodriguez-velasquez-2946352b0/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juanpablo.rodriguez160169@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-rodriguez-velasquez-2946352b0/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:juanpablo.rodriguez160169@gmail.com)
 
 juanpablo.rodriguez160169@gmail.com
